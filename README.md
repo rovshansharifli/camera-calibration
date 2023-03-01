@@ -15,7 +15,7 @@ python main.py --calibrate --square_size 1.6
 ```
 
 ## Test mode
-This mode is for testing the calibration on real image in test_images folder. Please provide your test images in that directory. Files will be picked randomly.
+This mode is for testing the calibration on real image in test_images folder. Please provide your test images in that directory. Test images will be picked randomly.
 
 ```commandline
 python main.py --test
